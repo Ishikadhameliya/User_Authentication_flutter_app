@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "983832392457",
+    "project_id": "multi-user-authenticatio-b5f28",
+    "storage_bucket": "multi-user-authenticatio-b5f28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983832392457:android:959f68b91cc91dc561d9d8",
+        "android_client_info": {
+          "package_name": "com.example.multi_user_authentication_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983832392457-sos0i9u38hceucjksihvqnb7pa1r94nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multi_user_authentication_app",
+            "certificate_hash": "25bfb13cb92f2291bb752c9be5f231a2c51a475d"
+          }
+        },
+        {
+          "client_id": "983832392457-r9eq1jag7pugiioul4iu1rfotd1pdo35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbG1lEKvXiY6RH2hjxhlM0fKSLi_arTp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983832392457-r9eq1jag7pugiioul4iu1rfotd1pdo35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
